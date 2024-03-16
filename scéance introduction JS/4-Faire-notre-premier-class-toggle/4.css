@@ -1,0 +1,9 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.taille-txt {
+    font-size: 50px;
+    font-style: italic;
+    background: crimson;
+}
