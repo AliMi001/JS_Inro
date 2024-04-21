@@ -1,0 +1,19 @@
+1. Programmation procédurale :
+
+* Dans la programmation procédurale, le code est structuré autour de procédures ou de fonctions qui effectuent des tâches spécifiques.
+* Les données sont souvent stockées dans des variables globales ou locales et passées en paramètres aux fonctions.
+* Le flux de contrôle est géré à l'aide de structures de contrôle telles que les boucles et les instructions conditionnelles.
+
+
+2. Programmation fonctionnelle :
+
+* Dans la programmation fonctionnelle, le code est structuré autour de fonctions pures, qui produisent une sortie basée uniquement sur leurs entrées et n'ont pas d'effets secondaires.
+* Les fonctions peuvent être traitées comme des valeurs de première classe, ce qui signifie qu'elles peuvent être passées en tant qu'arguments à d'autres fonctions ou retournées comme résultats.
+* L'immuabilité des données est souvent encouragée, ce qui signifie que les données ne sont pas modifiées après leur création.
+
+
+3. Programmation orientée objet :
+
+* Dans la programmation orientée objet (POO), le code est organisé autour d'objets qui représentent des entités du monde réel ou des concepts abstraits.
+* Les objets ont des attributs qui décrivent leur état et des méthodes qui définissent leur comportement.
+* L'héritage permet aux objets de partager des caractéristiques communes et de spécialiser le comportement, tandis que l'encapsulation limite l'accès aux données internes d'un objet.

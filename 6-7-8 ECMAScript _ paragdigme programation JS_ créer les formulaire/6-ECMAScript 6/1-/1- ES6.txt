@@ -1,0 +1,10 @@
+-> Let & const.
+->  Fonction fléchées.
+-> Template literals (`${text}`).
+-> classes & sous-classes.
+-> spread operator.
+-> desructing.
+-> object literals.
+-> For ... of
+-> Rest operator.
+-> import-export.
